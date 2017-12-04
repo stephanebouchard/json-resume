@@ -1,0 +1,250 @@
+{
+  "basics": {
+    "name": "Stéphane Bouchard",
+    "label": "DevOps Engineer",
+    "picture": "",
+    "email": "stephanebouchard.devops@gmail.com",
+    "phone": "",
+    "website": "https://stephanebouchard.github.io/",
+    "summary": "Avec plus de dix-huit ans d'expérience en développement informatique dont quatorze en gestion de configuration logicielle, mes tâches et responsabilités m'ont amené à demeurer à la fine pointe de la technologie tout au long de ma carrière. Dans la dernière année, j'ai ajouté les technologies de conteneurs et microservices à mon coffre d'outils. J'intègre ces dernières technologies à tous les niveaux du pipeline de déploiement en suivant la culture DevOps. Je désire poursuivre ma carrière dans ce même domaine au sein d'une entreprise qui me proposera des défis des plus intéressants à relever. J'ai besoin de me dépasser professionnellement. Je suis une personne autonome, dynamique et je n'ai pas peur de relever de grands défis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "La Prairie",
+      "countryCode": "Canada",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sbouchard25"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Autodesk",
+      "position": "DevOps Engineer",
+      "website": "http://www.autodesk.com",
+      "startDate": "2017-06-12",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "TC Transcontinental",
+      "position": "Gestionnaire de configuration - Appliations Web",
+      "website": "http://tctranscontinental.com",
+      "startDate": "2016-09-06",
+      "endDate": "2017-06-09",
+      "summary": "",
+      "highlights": [
+        "Mise en place du système d'intégration en continu Jenkins dans un 'Docker Swarm Cluster' avec des agents dynamiques",
+        "Mise à jour des projets Jenkins déjà en place vers l'utilisation de pipeline de déploiement en continu",
+        "Utilisation des technologies des conteneurs et microservices (Docker) dans pour le développement des applications web",
+        "Développer, maintenir, rehausser et optimiser les outils de compilation entièrement automatisés pour les applications développées par l’équipe de développement",
+        "Supporter les outils et processus assurant les compilations logicielles et le déploiement de produits prévues et sur demande.  Supporter les équipes de développement  dans cette activité",
+        "Former et supporter les développeurs dans l'utilisation des outils de développements (Docker, Jenkins, SVN, Maven)"
+      ]
+    },
+    {
+      "company": "Nuance Communications Inc.",
+      "position": "Embedded and Software Release Engineer",
+      "website": "http://www.nuance.com",
+      "startDate": "2014-10-06",
+      "endDate": "2016-09-02",
+      "summary": "",
+      "highlights": [
+        "Travaille en étroite collaboration avec les ingénieurs de développement d'applications et les équipes d'assurance qualité pour réaliser la livraison des projets",
+        "Maintenance et support du système de compilation 'batch files' et de gestion de source en place (Mercurial)",
+        "Migration du système de compilation de 'batch files' vers des scripts Apache Ant et Apache Ivy",
+        "Mise en place du flow de développement Hg Flow dans le cycle de développement",
+        "Responsable de la compilation en continue",
+        "Administrateur du gestionnaire de fichiers source  Mercurial",
+        "Administrateur du système d'intégration en continu Jenkins",
+        "Développement et mise à jour des scripts de compilation automatique (Jenkins, Ant, Bash, Python, Ivy)",
+        "Support aux développeurs dans l'utilisation des outils de développements"
+      ]
+    },
+    {
+      "company": "Intact Assurance (contractuel)",
+      "position": "Intégrateur",
+      "website": "http://www.intact.ca",
+      "startDate": "2013-10-07",
+      "endDate": "2014-06-02",
+      "summary": "",
+      "highlights": [
+        "Responsable des déploiements dans WebSphere des applications Web dans tous les environnements (INTG, UAT, PREP, PROD).",
+        "Responsable des rétrofits du codes sources (ClearCase, RTC Jazz)",
+        "Développement et mise à jour des scripts de compilation automatique (Maven3, Nexus, Ant, Bash)",
+        "Support aux développeurs dans l'utilisation des outils de développements"
+      ]
+    },
+    {
+      "company": "Tamaggo",
+      "position": "Spécialiste en gestion de configuration logicielle",
+      "website": "http://www.tamaggo.com",
+      "startDate": "2012-10-09",
+      "endDate": "2013-09-16",
+      "summary": "",
+      "highlights": [
+        "Administrateur du gestionnaire de source Git en utilisant Gitolite pour gérer les permissions",
+        "Administrateur de la suite Atlassian incluant les outils Confluence, JIRA, Crowd, Bamboo et FishEye",
+        "Administrateur de l'ensemble des serveurs de compilation sous Linux, Windows et MacOSX",
+        "Administration de l'infrastructure AWS (Amazon Web Server)"
+      ]
+    },
+    {
+      "company": "Rheinmetall Canada",
+      "position": "Spécialiste en gestion de configuration logicielle",
+      "website": "http://www.rheinmetall.ca",
+      "startDate": "2005-09-06",
+      "endDate": "2012-10-05",
+      "summary": "",
+      "highlights": [
+        "Virtualisation de l'ensemble des serveurs de compilation",
+        "Analyse et planification de la migration du gestionnaire de source ClearCase UCM vers Git",
+        "Administrateur du gestionnaire de source ClearCase UCM",
+        "Définition des processus, des politiques et des stratégies de branches pour l'ensemble des projets de l'entreprise",
+        "Définition des politiques et des procédures pour les livraisons de produits pour l'ensemble des projets de l'entreprise",
+        "Implantation et maintenance d'un système de compilation ANT/CruiseControl",
+        "Formation et support de l'utilisation du gestionnaire de source ClearCase UCM aux équipes de développements",
+        "Administrateur du gestionnaire d'incident Bugzilla"
+      ]
+    },
+    {
+      "company": "Simpler Networks Inc.",
+      "position": "Build Master",
+      "website": "http://simplernetworks.com",
+      "startDate": "2005-04-05",
+      "endDate": "2005-09-02",
+      "summary": "",
+      "highlights": [
+        "Administrateur du gestionnaire de source PVCS",
+        "Responsable de la migration de PVCS/Bugzilla vers ClearCase/ClearQuest",
+        "Installation, administration et configuration des outils ClearCase/ClearQuest"
+      ]
+    },
+    {
+      "company": "Solvision Inc.",
+      "position": "Spécialiste en gestion de configuration logicielle",
+      "website": "https://www.zygo.com/?/aboutus/news/20080228.htm",
+      "startDate": "2002-10-14",
+      "endDate": "2005-04-02",
+      "summary": "",
+      "highlights": [
+        "Administrateur des gestionnaires de fichiers sources Perforce et Microsoft Visual Source Safe",
+        "Analyse des besoins, évaluation et sélection du remplacement du gestionnaire de fichiers sources Microsoft Visual Source Safe",
+        "Mise en place du gestionnaire de fichiers sources Perforce",
+        "Définition des processus, des politiques et des stratégies de branches",
+        "Définition des politiques et des procédures pour les livraisons de produits",
+        "Responsable du développement des programmes d’installation avec InstallShield",
+        "Implantation, mise en production et support du gestionnaire d’incident Bugzilla",
+        "Développement et mise en place d’un système de compilation en continu (script perl)"
+      ]
+    },
+    {
+      "company": "Solvision Inc.",
+      "position": "Développeur C/C++",
+      "website": "https://www.zygo.com/?/aboutus/news/20080228.htm",
+      "startDate": "2001-02-05",
+      "endDate": "2002-10-14",
+      "summary": "",
+      "highlights": [
+        "Conception et développement de composants logiciels pour le système d'inspection par vision artificielle",
+        "Prototypage et développement des interfaces usager selon le standard industriel SEMI E95-1101",
+        "Développement de nouvelles fonctionnalités et maintenance dans la plupart des projets"
+      ]
+    },
+    {
+      "company": "LocusDialog",
+      "position": "Développeur C/C++",
+      "startDate": "2001-02-02",
+      "endDate": "1999-02-08",
+      "summary": "",
+      "highlights": [
+        "Conception, développement, maintenance et correction d’anomalies de plusieurs projets de l’entreprise."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Coopérative d'habitation Coup D'Pouce",
+      "position": "Secrétaire",
+      "startDate": "2003-01-01",
+      "endDate": "2004-01-01",
+      "summary": "",
+      "highlights": [
+        "Mise en place d'un réseau WiFi partagé pour l'ensemble des membres de la coopérative dans un immeuble de 4 étages"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Université du Québec à Montréal",
+      "area": "Informatique de gestion (87/96 crédits)",
+      "studyType": "Baccalauréat",
+      "startDate": "1996-09-01",
+      "endDate": "2000-05-15",
+      "courses": [
+        "CS2011 - Java Introduction"
+      ]
+    },
+    {
+      "institution": "Cégep du Vieux-Montréal",
+      "area": "Technique en génie mécanique",
+      "studyType": "Diplome d'étude collégial",
+      "startDate": "1991-09-01",
+      "endDate": "1994-05-15",
+      "courses": [
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Coutinuous Integration (CI)",
+      "level": "Master",
+      "keywords": [
+        "Jenkins",
+        "Git"
+      ]
+    },
+    {
+      "name": "Container and Microservices",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "Docker Swarm Cluster",
+        "AWS",
+        "GCP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Francais",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Capacité professionelle"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
