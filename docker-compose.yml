@@ -3,10 +3,9 @@ version: "3.1"
 services:
   cv:
     build: .
-    image: stephanebouchard/json-resume
+    image: stephanebouchard/jsonresume
     volumes:
       - $PWD:/data
     ports:
       - "4000:4000"
     command: serve --theme spartacus
-
